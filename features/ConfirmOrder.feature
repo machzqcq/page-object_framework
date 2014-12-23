@@ -1,6 +1,4 @@
 Feature: Confirm order after payment
-
-
     Scenario: Pay by check and confirm order
       When I open automationpractice website
       And I login using data from yml

@@ -4,5 +4,4 @@ class PaymentMethodPage < GenericBasePage
   element(:bank_wire) {|b| b.link(class: "bankwire")}
   element(:check) {|b| b.link(class: "cheque")}
 
-
 end

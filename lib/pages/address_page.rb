@@ -18,7 +18,4 @@ class AddressPage < GenericBasePage
   element(:message) {|b| b.textarea(name: "message")}
   element(:proceed_to_checkout) {|b|b.button(name: "processAddress")}
 
-
-
-
 end

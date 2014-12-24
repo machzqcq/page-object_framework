@@ -11,10 +11,10 @@ Read - http://www.seleniumframework.com/hybrid-framework/what-is-page-object/
 Instructions to use
 =====================
 
-1) Checkout the project
-2) Run bundle install
-3) Go through .feature files
-4) Check step defnitions
+1. Checkout the project (`git clone <repo_url>`)
+2. Run `bundle install`
+3. Go through `.feature` files
+4. Check step defnitions
 
 
 ## Contributing

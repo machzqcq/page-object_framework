@@ -1,13 +1,14 @@
 Training
 ========
 
-This project is being used to demonstrate page object pattern for Test Automation in Ruby. From a very high level, the capabilities covered are:  
-1. Data-driven framework concepts using data_helper.rb  
-2. Page Object  
-3. Page Factory  
-4. Modeling Page Objects [the most important one]  
-5. A shopping cart workflow automated using Page Objects  
-6. Waits and Synchronization
+This project is being used to demonstrate page object pattern for Test Automation in Ruby. From a very high level, the capabilities covered are:   
+
+1. [Data-driven framework concepts] (http://www.seleniumframework.com/data-driven-framework/what-is-data-driven-framework/) using data_helper.rb  
+2. [Page Object] (http://www.seleniumframework.com/hybrid-framework/what-is-page-object/)  
+3. [Page Factory] (http://www.seleniumframework.com/hybrid-framework/what-is-page-factory/)  
+4. [Modeling Page Objects] (http://www.seleniumframework.com/hybrid-framework/modeling-page-objects/) [the most important one]  
+5. [A shopping cart workflow automated] (http://www.seleniumframework.com/hybrid-framework/implement-page-object-pattern/) using Page Objects  
+6. [Waits and Synchronization] (http://www.seleniumframework.com/basic-tutorial/wait_commands/) concepts applied
 
 How to
 =======

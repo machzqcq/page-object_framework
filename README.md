@@ -1,7 +1,13 @@
 Training
 ========
 
-This project is being used to demonstrate page object pattern for Test Automation in Ruby
+This project is being used to demonstrate page object pattern for Test Automation in Ruby. From a very high level, the capabilities covered are:  
+1. Data-driven framework concepts using data_helper.rb  
+2. Page Object
+3. Page Factory
+4. Modeling Page Objects [the most important one]
+5. A shopping cart workflow automated using Page Objects
+6. Waits and Synchronization
 
 How to
 =======

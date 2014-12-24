@@ -3,10 +3,9 @@ Training
 
 This project is being used to demonstrate page object pattern for Test Automation in Ruby
 
-
-Known Issues
-=====================
-Hooks.rb code launches browser even for non-browser scenarios, however it closes it down too
+How to
+=======
+Read - http://www.seleniumframework.com/hybrid-framework/what-is-page-object/  
 
 
 Instructions to use

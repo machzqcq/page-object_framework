@@ -13,10 +13,10 @@ class LoginPage < GenericBasePage
   end
 
   def login_yml(options={})
-    options.to_hash.merge!(default_data_directory:"lib/config/data")
-    set_data_directory options['default_data_directory']
-    email.set data_yml_hash['username']
-    password.set data_yml_hash['password']
+    options = options.with_indifferent_access
+    options.to_hash.reverse_merge! data_yml_hash.with_indifferent_access
+    email.set options['username']
+    password.set options['password']
     signin_button.click
   end
 

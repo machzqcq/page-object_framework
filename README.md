@@ -9,6 +9,7 @@ This project is being used to demonstrate page object pattern for Test Automatio
 4. [Modeling Page Objects] (http://www.seleniumframework.com/hybrid-framework/modeling-page-objects/) [the most important one]  
 5. [A shopping cart workflow automated] (http://www.seleniumframework.com/hybrid-framework/implement-page-object-pattern/) using Page Objects  
 6. [Waits and Synchronization] (http://www.seleniumframework.com/basic-tutorial/wait_commands/) concepts applied
+7. [Executing on Selenium GRID] (http://www.seleniumframework.com/intermediate-tutorial/what-is-selenium-grid/)
 
 How to
 =======

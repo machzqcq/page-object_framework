@@ -3,6 +3,7 @@ class GenericBasePage
   def initialize browser, visit = false
     @browser = browser
     goto if visit
+    # respond_to? is a Ruby method for detecting whether the class has a particular method on it
     expected_element if respond_to? :expected_element
     has_expected_title? if respond_to? :has_expected_title?
   end

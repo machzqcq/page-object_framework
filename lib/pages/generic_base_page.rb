@@ -40,6 +40,7 @@ class GenericBasePage
 
   def self.element element_name
     define_method element_name.to_s do
+      #yield self enters block, associated with method call, passing current object as argument to the block
       yield self
     end
   end

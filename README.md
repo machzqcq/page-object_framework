@@ -22,7 +22,7 @@ Instructions to use
 1. Checkout the project (`git clone <repo_url>`)
 2. Run `bundle install`
 3. Go through `.feature` files
-4. Check step defnitions  
+4. Check step defnition  
 
 Issues observed so far
 =========================

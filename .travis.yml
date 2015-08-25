@@ -11,5 +11,5 @@ install:
 before_script:
 - "export PHANTOMJS_EXECUTABLE='phantomjs --local-to-remote-url-access=yes --ignore-ssl-errors=yes'"
 script:
-- bundle exec cucumber features BROWSER=phantomjs
+- bundle exec cucumber features BROWSER=firefox
 

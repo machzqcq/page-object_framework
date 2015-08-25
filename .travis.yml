@@ -1,0 +1,10 @@
+language: ruby
+rvm:
+  - 2.0.0
+before_install:
+- gem install bundler bundle_cache
+- bundle install
+before_script:
+- bundle exec cucumber features BROWSER=phantomjs
+after_script:
+- bundle_cache

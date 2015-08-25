@@ -1,4 +1,4 @@
-![Build Status](https://travis-ci.org/machzqcq/page-object_framework.svg?token=BAqzccv8FaUN2TnFhydh)
+![Build Status](https://travis-ci.org/machzqcq/page-object_framework.svg?branch=master)
 
 
 

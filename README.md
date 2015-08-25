@@ -1,3 +1,6 @@
+https://travis-ci.org/machzqcq/page-object_framework.svg?branch=master
+
+
 Training
 ========
 

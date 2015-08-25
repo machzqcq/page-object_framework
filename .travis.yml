@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 2.0.0
+  - 2.0.0-p247
 install:
 - gem install bundler
 - bundle install

@@ -5,7 +5,7 @@
 Training
 ========
 
-This project is being used to demonstrate page object pattern for Test Automation in Ruby. From a very high level, the capabilities covered are:   
+This project is being used to demonstrate page object pattern for Test Automation in Ruby. From a very high level, the capabilities covered:   
 
 1. [Data-driven framework concepts] (http://www.seleniumframework.com/data-driven-framework/what-is-data-driven-framework/) using data_helper.rb  
 2. [Page Object] (http://www.seleniumframework.com/hybrid-framework/what-is-page-object/)  

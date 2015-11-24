@@ -2,8 +2,8 @@
 
 
 
-Training
-========
+Page Object Framework
+=====================
 
 This project is being used to demonstrate page object pattern for Test Automation in Ruby. From a very high level, the capabilities covered:   
 

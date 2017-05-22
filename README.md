@@ -7,13 +7,13 @@ Page Object Framework
 
 This project is being used to demonstrate page object pattern for Test Automation in Ruby. From a very high level, the capabilities covered:   
 
-1. [Data-driven framework concepts] (http://www.seleniumframework.com/data-driven-framework/what-is-data-driven-framework/) using data_helper.rb  
-2. [Page Object] (http://www.seleniumframework.com/hybrid-framework/what-is-page-object/)  
-3. [Page Factory] (http://www.seleniumframework.com/hybrid-framework/what-is-page-factory/)  
-4. [Modeling Page Objects] (http://www.seleniumframework.com/hybrid-framework/modeling-page-objects/) [the most important one]  
-5. [A shopping cart workflow automated] (http://www.seleniumframework.com/hybrid-framework/implement-page-object-pattern/) using Page Objects  
-6. [Waits and Synchronization] (http://www.seleniumframework.com/basic-tutorial/wait_commands/) concepts applied
-7. [Executing on Selenium GRID] (http://www.seleniumframework.com/intermediate-tutorial/what-is-selenium-grid/)
+1. [Data-driven framework concepts](http://www.seleniumframework.com/data-driven-framework/what-is-data-driven-framework/) using data_helper.rb  
+2. [Page Object](http://www.seleniumframework.com/hybrid-framework/what-is-page-object/)  
+3. [Page Factory](http://www.seleniumframework.com/hybrid-framework/what-is-page-factory/)  
+4. [Modeling Page Objects](http://www.seleniumframework.com/hybrid-framework/modeling-page-objects/) [the most important one]  
+5. [A shopping cart workflow automated](http://www.seleniumframework.com/hybrid-framework/implement-page-object-pattern/) using Page Objects  
+6. [Waits and Synchronization](http://www.seleniumframework.com/basic-tutorial/wait_commands/) concepts applied
+7. [Executing on Selenium GRID](http://www.seleniumframework.com/intermediate-tutorial/what-is-selenium-grid/)
 
 How to
 =======

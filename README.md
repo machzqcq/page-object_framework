@@ -19,7 +19,6 @@ How to
 =======
 Read - http://www.seleniumframework.com/hybrid-framework/what-is-page-object/  
 
-
 Instructions to use
 =====================
 

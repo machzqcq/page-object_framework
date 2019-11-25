@@ -5,7 +5,7 @@ gem 'rspec'
 gem 'selenium-webdriver'
 gem 'watir-webdriver'
 gem 'require_all'
-gem 'activesupport', '4.1.8'
+gem "activesupport", ">= 4.1.11"
 gem 'rake'
 gem 'simplecov'
 gem 'simplecov-rcov'
